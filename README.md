@@ -30,9 +30,12 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 # Program :
 
- 
+ <img width="839" height="768" alt="image" src="https://github.com/user-attachments/assets/a426ab22-6e6a-46c8-b09b-b4df2e772938" />
+
 
 # Output : 
+<img width="691" height="331" alt="image" src="https://github.com/user-attachments/assets/42a9667d-e053-45b2-b85a-1650982be5dd" />
+
 
 
 
